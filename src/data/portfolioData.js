@@ -139,8 +139,8 @@ export const portfolioData = {
       image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
       techStack: ["React", "Firebase", "Tailwind", "Redux"],
       category: "Web App",
-      liveUrl: "https://github.com/gautamrathor/jsm_cosmetics.git",
-      githubUrl: "https://github.com/gautamrathor/jsm_cosmetics.git",
+      liveUrl: "https://jsm-cosmetics.vercel.app/",
+      githubUrl: "https://jsm-cosmetics.vercel.app/",
       featured: true
     },
     {
